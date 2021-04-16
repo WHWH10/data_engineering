@@ -4,8 +4,8 @@ import base64
 import json
 import logging
 
-client_id = "cb60d784b77842e6a585a4b770c42769"
-client_secret = "a593703d01dd4b82ace1e70dad3d99c3"
+client_id = ""
+client_secret = ""
 
 
 def main():
